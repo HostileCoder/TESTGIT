@@ -1,7 +1,2 @@
 Kolouri, Soheil
-Neural Networks, Hypersurfaces, and the Generalized Radon Transform	Artificial neural networks (ANNs) have long been used as a mathematical 
-	modeling method and have recently found numerous applications in science and technology, 
-	including computer vision, signal processing, and machine learning [1], to name
 
-
-	
