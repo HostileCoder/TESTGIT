@@ -1,0 +1,54 @@
+Kolouri, Soheil
+Neural Networks, Hypersurfaces, and the Generalized Radon Transform 
+
+	Artificial neural networks (ANNs) have long been used as a mathematical 
+	modeling method and have recently found numerous applications in science and technology, 
+	including computer vision, signal processing, and machine learning [1], to name a few. 
+	Although notable function approximation results exist [2], theoretical explanations have 
+	yet to catch up with newer developments, particularly with regard to (deep) hierarchical
+	learning. As a consequence, numerous doubts often accompany NN practitioners, such as 	 
+	How many layers should one use? What is the effect of different activation functions?	 
+	What are the effects of pooling? and many others. © 1991-2012 IEEE.
+
+Kolouri, Soheil
+Sar automatic target recognition with less labels
+	Process radar image data without large training set
+
+Park
+Transport-based model for turbulence-corrupted imagery
+	reduce image corruption for open air communication, astronomy, remote sensor due to turbulance
+
+Gustavo Kunde Rohde
+Facial weakness analysis and quantification of static images
+	image processing to detect facial weakness disease using  Histogram of Oriented Gradients
+
+Kundu, Shinjini
+Discovery and visualization of structural biomarkers from MRI using transport-based morphometry
+	use an image transformation on MRI image to detect a physical change 
+------------------
+
+Machine learning-based signal degradation models for attenuated underwater optical communication OAM beams
+	Orbital Angular Momentum
+ 	
+	OAM communications have great potential in free space or underwater
+ 	environments to increase communication bandwidth by multiplexing modes together. 
+
+	OAM underwater optical communication approach was implemented using 16 spatial modes 
+	
+	The analysis provided in this paper focuses on the classification of these modes as an 
+	important step to full implementation of an underwater OAM system
+
+
+Multichannel fiber laser acoustic emission sensor system for crack detection and location 
+in accelerated fatigue testing of aluminum panels 
+
+	Use cumulative distribution transform to process acoustic emission
+        This is to determine the location of aluminum panel crack during 
+	
+
+A Neighborhood Rough Sets-Based Attribute Reduction Method Using Lebesgue and
+Entropy Measures
+
+
+
+	
