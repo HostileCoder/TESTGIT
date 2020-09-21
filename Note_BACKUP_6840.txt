@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+my stuff
+=======
+new stuff
+>>>>>>> 1b5c82c7efdb8ec9739e58c85ed1b6f2af70f825
